@@ -13,6 +13,7 @@
 		0089A4862BD62974005766DA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0089A4842BD62974005766DA /* Main.storyboard */; };
 		0089A4882BD62976005766DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0089A4872BD62976005766DA /* Assets.xcassets */; };
 		0089A48B2BD62976005766DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0089A4892BD62976005766DA /* LaunchScreen.storyboard */; };
+		0089A4932BD629C0005766DA /* GridCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0089A4922BD629C0005766DA /* GridCollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0089A4872BD62976005766DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0089A48A2BD62976005766DA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0089A48C2BD62976005766DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0089A4922BD629C0005766DA /* GridCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridCollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0089A47E2BD62974005766DA /* AppDelegate.swift */,
 				0089A4802BD62974005766DA /* SceneDelegate.swift */,
 				0089A4822BD62974005766DA /* ViewController.swift */,
+				0089A4922BD629C0005766DA /* GridCollectionViewController.swift */,
 				0089A4842BD62974005766DA /* Main.storyboard */,
 				0089A4872BD62976005766DA /* Assets.xcassets */,
 				0089A4892BD62976005766DA /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				0089A4832BD62974005766DA /* ViewController.swift in Sources */,
 				0089A47F2BD62974005766DA /* AppDelegate.swift in Sources */,
+				0089A4932BD629C0005766DA /* GridCollectionViewController.swift in Sources */,
 				0089A4812BD62974005766DA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
